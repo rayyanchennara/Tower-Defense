@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Apple.unity
+    guid: 6b83aaa74412a8d42a4a703a06d27c7b
+  - enabled: 1
+    path: Assets/Scenes/Banana.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Caret.unity
+    guid: 4068898bb0ba59b4f934b9dc70a2f7f3
+  m_configObjects: {}
